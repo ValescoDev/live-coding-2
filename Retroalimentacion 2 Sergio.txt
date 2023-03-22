@@ -1,0 +1,9 @@
+Retroalimentacion - Sergio Gil
+
+n general, el código que has escrito es conciso y fácil de entender. La estructura es clara y se separa bien en funciones definidas, lo que hace que el código sea más modular y fácil de mantener.
+
+Es especialmente buena la implementación del temporizador para borrar los campos de pregunta y respuesta después de 5 segundos, lo que proporciona una buena experiencia de usuario.
+
+Una sugerencia que podría hacer para mejorar el código es agregar más comentarios para hacerlo aún más fácil de entender, especialmente si alguien más tiene que leer y trabajar con él. También podría considerar agregar estados de carga o error para la respuesta de la API, para proporcionar retroalimentación visual al usuario mientras se espera la respuesta.
+
+En general, buen trabajo en el código y sigue mejorando tus habilidades en programación!
